@@ -6,7 +6,12 @@
           <option name="url" value="http://192.168.169.100" />
           <option name="userName" value="katherinanik" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/katherinanik/googleid.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
   </component>
 </application>
